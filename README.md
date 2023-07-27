@@ -1,6 +1,6 @@
 # quizzy
 
-A new Flutter project.
+Flutter Quiz App.
 
 ## Getting Started
 
